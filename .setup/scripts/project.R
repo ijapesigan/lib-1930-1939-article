@@ -18,7 +18,8 @@
 project <- "lib-1930-1939-article"
 
 pkg_cran <- c(
-  "RefManageR"
+  "RefManageR",
+  "DT"
 )
 
 pkg_github <- c(
