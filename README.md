@@ -1,7 +1,7 @@
 lib-1930-1939-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-05-16
+2024-05-20
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -16,13 +16,21 @@ Check](https://github.com/ijapesigan/lib-1930-1939-article/actions/workflows/she
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent"
-entry-spacing="0" line-spacing="2">
+line-spacing="2">
 
 <div id="ref-Craig-1936" class="csl-entry">
 
 Craig, C. C. (1936). On the frequency function of $xy$. *The Annals of
 Mathematical Statistics*, *7*(1), 1–15.
 <https://doi.org/10.1214/aoms/1177732541>
+
+</div>
+
+<div id="ref-Johnson-Neyman-1936" class="csl-entry">
+
+Johnson, P. O., & Neyman, J. (1936). Tests of certain linear hypotheses
+and their application to some educational problems. *Statistical
+Research Memoirs*, *1*, 57–93.
 
 </div>
 
